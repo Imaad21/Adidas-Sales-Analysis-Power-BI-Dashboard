@@ -1,2 +1,4 @@
-# Adidas-Sales-Analysis-Power-BI-Dashboard
-Developed an interactive Power BI dashboard to analyze and visualize Adidas outlet sales performance. The dashboard provides a comprehensive overview of key metrics, enabling data-driven decision-making and enhancing sales strategy efficiency.
+# Adidas-Sales-Data-Analysis(Interactive Dashboard creation using Power BI and MS Excel)
+
+# Project Objective
+Through this Power Bl-driven analysis, Adidas aims to empower its decision-makers with data-driven insights, fostering strategic growth and competitiveness in the dynamic sports and athletic industry.
